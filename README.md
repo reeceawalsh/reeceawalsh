@@ -18,9 +18,22 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
+### :man_technologist: About Me :
 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently completing a MSc Computer Science at Newcastle University. 
+
+- :telescope: I am going to seek work as a Software Engineer after my studies. 
+
+- :seedling: Working my way through Java Mooc II. 
+
+- :zap: In my free time, I solve problems on LeetCode and CodeWars. 
+
+- :mailbox: I'm looking forward to connecting with you.  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeceawalsh&count_private=true&show_icons=true&theme=dracula)
