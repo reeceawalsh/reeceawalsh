@@ -13,16 +13,14 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=reeceawalsh&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi, my name is Reece. 
+  Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 ### :man_technologist: About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently completing a MSc Computer Science at Newcastle University. 
-
-- :telescope: I am going to seek work as a Software Engineer after my studies. 
+- :telescope: Currently completing a MSc Computer Science at Newcastle University.
 
 - :seedling: Working my way through Java Mooc II. 
 
