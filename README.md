@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Currently completing MSc Computer Science at Newcastle University.
+- :telescope: Due to start a masters in Computer Science at Newcastle University in September. 
 
 - :seedling: Working my way through Java Mooc II. 
 
