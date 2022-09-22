@@ -19,7 +19,7 @@
 
 - :telescope: MSc Computer Science Student at Newcastle University
 
-- :seedling: Working my way through Java Mooc II. 
+- :seedling: Learning C++
 
 - :zap: In my free time, I solve problems on LeetCode and CodeWars. 
 
