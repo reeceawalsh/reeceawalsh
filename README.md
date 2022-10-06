@@ -41,7 +41,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reeceawalsh&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeceawalsh&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeceawalsh&layout=compact&count_private=true&theme=dracula)
 <!---
