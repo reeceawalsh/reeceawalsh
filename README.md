@@ -41,9 +41,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reeceawalsh&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeceawalsh&layout=compact&count_private=true&theme=dracula)
-<!---
 reeceawalsh/reeceawalsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
