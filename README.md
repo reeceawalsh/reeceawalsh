@@ -40,3 +40,5 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reeceawalsh&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeceawalsh&show_icons=true&theme=dracula&count_private=true)
+
