@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: MSc Computer Science Student at Newcastle University
+- :telescope: MSc Computer Science Student at Newcastle University.
 
 - :seedling: Interested in Java and ReactJs. 
 
