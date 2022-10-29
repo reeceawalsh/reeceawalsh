@@ -19,7 +19,7 @@
 
 - :telescope: MSc Computer Science Student at Newcastle University.
 
-- :seedling: Interested in Java and ReactJs. 
+- :seedling: Interested in threejs. 
 
 - :zap: In my free time, I solve problems on LeetCode and CodeWars. 
 
