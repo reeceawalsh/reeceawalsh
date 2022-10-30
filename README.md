@@ -19,7 +19,7 @@
 
 - :telescope: MSc Computer Science Student at Newcastle University.
 
-- :seedling: Interested in threejs. 
+- :seedling: Currently completing https://threejs-journey.com
 
 - :zap: In my free time, I solve problems on LeetCode and CodeWars. 
 
