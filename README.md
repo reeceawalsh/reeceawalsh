@@ -25,7 +25,7 @@
 
 - :mailbox: I'm looking forward to connecting with you. 
 
-- :house: www.reecewalsh.com
+- :building_construction: www.reecewalsh.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
