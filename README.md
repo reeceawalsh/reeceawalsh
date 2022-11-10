@@ -19,9 +19,9 @@
 
 - :telescope: MSc Computer Science Student at Newcastle University.
 
-- :seedling: Currently completing https://threejs-journey.com
+- :seedling: Currently completing https://threejs-journey.com. 
 
-- :zap: In my free time, I solve problems on LeetCode and CodeWars. 
+- :zap: Currently interested in Unit Testing and Database Management. 
 
 - :mailbox: I'm looking forward to connecting with you. 
 
