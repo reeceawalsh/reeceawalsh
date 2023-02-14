@@ -21,7 +21,7 @@
 
 - :seedling: Currently completing https://threejs-journey.com. 
 
-- :zap: Currently interested in Unit Testing and Database Management. 
+- :zap: Currently interested in Robotics.  
 
 - :mailbox: I'm looking forward to connecting with you. 
 
