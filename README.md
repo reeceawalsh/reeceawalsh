@@ -20,7 +20,7 @@
 
 - :seedling: Currently completing https://threejs-journey.com. 
 
-- :zap: Currently interested in Robotics.  
+- :zap: Currently interested in React Native.  
 
 - :mailbox: I'm looking forward to connecting with you. 
 
