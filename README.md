@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: MSc Computer Science Student at Newcastle University.
+- :telescope: Research Software Engineer at Newcastle University.
 
 - :seedling: Currently completing https://threejs-journey.com. 
 
