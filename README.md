@@ -18,12 +18,6 @@
 
 - :telescope: Research Software Engineer at Newcastle University.
 
-- :seedling: Currently completing https://threejs-journey.com. 
-
-- :zap: Currently interested in React Native.  
-
-- :mailbox: I'm looking forward to connecting with you. 
-
 - :building_construction: www.reecewalsh.com
 
 ### :hammer_and_wrench: Languages and Tools :
