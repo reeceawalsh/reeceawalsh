@@ -13,6 +13,8 @@
 
 ### :man_technologist: About Me :
 
+- :builder: Founded Indacas, a Newcastle University spinout.
+  
 - :telescope: Research Software Engineer at Newcastle University.
 
 - :building_construction: www.reecewalsh.com
