@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 
-- :construction_worker: Founded [Indacas](https;//indacas.com), a Newcastle University spinout.
+- :construction_worker: Founded [Indacas](https://indacas.com), a Newcastle University spinout.
   
 - :telescope: Research Software Engineer at Newcastle University.
 
